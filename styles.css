@@ -114,11 +114,11 @@ h2 {
     transition: transform 0.3s ease;
 }
 
-.about-text {
+.about-content p {
     max-width: 600px;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     line-height: 1.8;
-    color: #555;
+    color: #0e0e0e;
 }
 
 .profile-photo:hover {
